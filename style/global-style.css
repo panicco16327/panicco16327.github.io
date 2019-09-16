@@ -1,3 +1,7 @@
 body {
 	margin: 0px;
 }
+
+#wrapper {
+	background-color: #df1010;
+}
